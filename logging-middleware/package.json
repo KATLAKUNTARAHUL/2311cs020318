@@ -1,0 +1,10 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Structured HTTP request logging middleware for Express-compatible applications",
+  "main": "src/request-logger.js",
+  "type": "commonjs",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
